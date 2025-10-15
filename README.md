@@ -1,4 +1,4 @@
-<img width="1168" height="826" alt="Screenshot 2025-10-15 105431" src="https://github.com/user-attachments/assets/583983a0-3feb-4567-9f91-10746ea8da16" /># EX No.4.1. CUT SECTION OF SOLIDS
+# EX No.4.1. CUT SECTION OF SOLIDS
 ## DATE:
 
 ## AIM
